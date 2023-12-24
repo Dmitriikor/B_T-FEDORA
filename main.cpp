@@ -59,7 +59,7 @@ int max(std::vector<int> &random)
 }
 
 int main()
-{
+{  
 	{
 		// BinaryTree<int> tree;
 		// tree.print();
